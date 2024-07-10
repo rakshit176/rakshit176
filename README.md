@@ -1,17 +1,17 @@
 
 
-<h1 align="center">Hi 👋, I'm Ranjith Kumar K.N</h1>
-<h3 align="center">Aspiring Data Engineer</h3>
+<h1 align="center">Hi 👋, I'm Rakshith Kumar K.N</h1>
+<h3 align="center">Aspiring Machine Learning Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarah-2510&label=Profile%20views&color=0e75b6&style=flat" alt="rangow4562" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarah-2510&label=Profile%20views&color=0e75b6&style=flat" alt="rakshit176" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rangow4562" alt="rangow4562" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rangow4562" alt="rakshit176" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rangow4562](https://github.com/Rangow4562)
+- 👨‍💻 All of my projects are available at [https://github.com/rakshit176](https://github.com/rakshit176)
 
-- 📫 How to reach me **ranjith.go2260@gmail.com**
+- 📫 How to reach me **rakshit.gowda.rg@gmail.com**
 
-- 👨‍💻 To Know more about me https://rangow4562.github.io/
+- 👨‍💻 To Know more about me 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
