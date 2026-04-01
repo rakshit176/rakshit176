@@ -22,7 +22,7 @@
 - 🔐 **SOC 2** certified NLP pipeline for J.P. Morgan — zero PII leakage across 50K+ financial documents
 - 📫 Reach me at **rakshitkumarkn@gmail.com**
 - 💼 Open to **Senior ML Engineer / Staff AI Engineer** roles at FAANG-tier companies
-- 🌐 Portfolio: [portfolio-sooty-six-44.vercel.app](https://portfolio-sooty-six-44.vercel.app)
+- 🌐 Portfolio: [portfolio-rakshith-kumar-kn.vercel.app](https://portfolio-v2-nu-three-33.vercel.app/)
 
 ---
 
