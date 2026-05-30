@@ -19,7 +19,7 @@
 [![Compliance](https://img.shields.io/badge/Compliance-HIPAA_·_SOC_2-f76f7c?style=flat-square&labelColor=111118)](https://github.com/rakshit176)
 [![Views](https://komarev.com/ghpvc/?username=rakshit176&style=flat-square&color=7c6ff7&labelColor=111118)](https://github.com/rakshit176)
 
-[📧 Email](mailto:rakshitkumarkn@gmail.com) · [💼 LinkedIn](https://linkedin.com/in/rakshith-kumar-kn-4108b31a3) · [🌐 Portfolio](https://portfolio-v2-nu-three-33.vercel.app/)
+[📧 Email](mailto:rakshitkumarkn@gmail.com) · [💼 LinkedIn](https://linkedin.com/in/rakshith-kumar-kn-4108b31a3) · [🌐 Portfolio](https://rakshith-kumar-kn-ai-engineer-portf.vercel.app/)
 
 </div>
 
@@ -173,16 +173,25 @@ Associate Data Scientist Lincode Labs      Mar 2022 — Jan 2023
 ## 📈 GitHub stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rakshit176&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=0a0a0f&title_color=7c6ff7&text_color=8b8a9e&icon_color=3dd68c" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshit176&hide_border=true&layout=compact&theme=dark&bg_color=0a0a0f&title_color=7c6ff7&text_color=8b8a9e" />
+
+<!-- GitHub Stats — hosted on github-readme-stats.vercel.app (self-deployable; use your own instance for 100% uptime) -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rakshit176&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0a0a0f&title_color=7c6ff7&text_color=8b8a9e&icon_color=3dd68c&hide_title=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshit176&hide_border=true&layout=compact&theme=tokyonight&bg_color=0a0a0f&title_color=7c6ff7&text_color=8b8a9e&langs_count=8" />
+
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshit176&hide_border=true&background=0a0a0f&stroke=7c6ff7&ring=7c6ff7&fire=f7a14e&currStreakLabel=3dd68c&sideLabels=8b8a9e&dates=8b8a9e&currStreakNum=f0eff8&sideNums=f0eff8" />
+
+<!-- Streak stats — git.io/streak-stats is the stable canonical host -->
+<img src="https://streak-stats.demolab.com?user=rakshit176&hide_border=true&background=0a0a0f&stroke=7c6ff7&ring=7c6ff7&fire=f7a14e&currStreakLabel=3dd68c&sideLabels=8b8a9e&dates=8b8a9e&currStreakNum=f0eff8&sideNums=f0eff8" />
+
 </div>
 
 <div align="center">
+
+<!-- Trophies — use nimitejeshwar's fork which is more stable -->
 <img src="https://github-profile-trophy.vercel.app/?username=rakshit176&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+
 </div>
 
 ---
